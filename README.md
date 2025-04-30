@@ -16,6 +16,10 @@ Note: No AI are used on any of my compilations.
 ---
 ![AboutMe](AboutMe/Leetcode_Stats_2025-04-28.jpg)
 ---
+---
+### Wall of Runtimes: _(On 1st approach), (Med. problems)._ "Do or do not. There is no ~~try~~"
+---
+![AboutMe](AboutMe/10.jpg)
 ![AboutMe](AboutMe/1.jpg)
 ![AboutMe](AboutMe/2.jpg)
 ![AboutMe](AboutMe/3.jpg)
